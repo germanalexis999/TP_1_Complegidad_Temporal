@@ -26,6 +26,11 @@ namespace TP_1_ARCE_GERMAN
             //llamamos al metodo nuevo
             ArbolBinario<int> arbolBinarioB = nuevo(arbolBinarioA);
 
+
+            ArbolBinario<int> arbolBinarioC = new ArbolBinario<int>(1);
+            ArbolBinario<int> hijoIzquierdoC = new ArbolBinario<int>(2);
+            hijoIzquierdoC.agregarHijoIzquierdo(new ArbolBinario<int>(3));
+
             //imprimimos el arbol binario
             Console.WriteLine("Arbol binario A");
             arbolBinarioA.preorden();
@@ -43,6 +48,14 @@ namespace TP_1_ARCE_GERMAN
             arbolBinarioA.recorridoPorNiveles();
             Console.WriteLine("Recorrido por niveles del arbol binario B");
             arbolBinarioB.recorridoPorNiveles();
+
+
+            //imprimir contar hojas 
+
+            Console.WriteLine("El arbol binario A tiene " + arbolBinarioA.contarHojas() + " hojas");
+            Console.WriteLine("El arbol binario B tiene " + arbolBinarioB.contarHojas() + " hojas");
+            Console.WriteLine("El arbol binario C tiene " + arbolBinarioC.contarHojas() + " hojas");
+
 
 
         }

@@ -126,12 +126,27 @@ namespace TP_1_ARCE_GERMAN
 
         public int contarHojas()
         {
-            return 0;
+          
+
+            if (this.esHoja())
+            {
+                return 1;
+            }
+
+            int hojas = 0;
+            if (this.hijoIzquierdo != null)
+            {
+                hojas += this.hijoIzquierdo.contarHojas();
+            }
+            if (this.hijoDerecho != null)
+            {
+                hojas += this.hijoDerecho.contarHojas();
+            }
+            return hojas;
         }
 
         public bool incluye(T dato) {
 
-            //recorro y veo si el dato esta 
 
             if (this.dato.Equals(dato))
             {

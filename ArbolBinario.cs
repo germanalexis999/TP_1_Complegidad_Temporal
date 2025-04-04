@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.Json.Nodes;
 
 namespace TP_1_ARCE_GERMAN
 {
@@ -175,6 +176,43 @@ namespace TP_1_ARCE_GERMAN
 
         public void recorridoEntreNiveles(int n, int m)
         {
-        }
+            if (n < 0 || m < n)
+            {
+                throw new ArgumentException("Los niveles n y m deben cumplir 0 ≤ n ≤ m.");
+            }
+
+            int initialLevel = 0;
+            Cola<(ArbolBinario<T> nodo, int level)> cola = new Cola<(ArbolBinario<T> nodo, int level)>();
+       
+            cola.encolar((this, initialLevel));
+
+            while (!cola.esVacia())
+            {
+                var (nodo, level) = cola.desencolar();
+
+                if (level > m)
+                {
+                    break;
+                }
+
+                if (level >= n && level <= m)
+                {
+                    Console.WriteLine(nodo.getDatoRaiz());
+                }
+
+                if (nodo.getHijoIzquierdo() != null)
+                {
+                    cola.encolar((nodo.getHijoIzquierdo(), level + 1));
+                }
+
+                if (nodo.getHijoDerecho() != null)
+                {
+                    cola.encolar((nodo.getHijoDerecho(), level + 1));
+                }
+
+
+            }
+
+            }
     }
 }

@@ -56,6 +56,11 @@ namespace TP_1_ARCE_GERMAN
             Console.WriteLine("El arbol binario B tiene " + arbolBinarioB.contarHojas() + " hojas");
             Console.WriteLine("El arbol binario C tiene " + arbolBinarioC.contarHojas() + " hojas");
 
+            // impirimir entre niveles 
+
+            Console.WriteLine("El arbol binario A Con recorrido entre niveles  0 , 1");
+            arbolBinarioA.recorridoEntreNiveles(0, 1);
+
 
 
         }

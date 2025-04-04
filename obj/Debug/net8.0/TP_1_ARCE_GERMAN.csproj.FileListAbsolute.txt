@@ -1,0 +1,14 @@
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\bin\Debug\net8.0\TP_1_ARCE_GERMAN.exe
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\bin\Debug\net8.0\TP_1_ARCE_GERMAN.deps.json
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\bin\Debug\net8.0\TP_1_ARCE_GERMAN.runtimeconfig.json
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\bin\Debug\net8.0\TP_1_ARCE_GERMAN.dll
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\bin\Debug\net8.0\TP_1_ARCE_GERMAN.pdb
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\TP_1_ARCE_GERMAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\TP_1_ARCE_GERMAN.AssemblyInfoInputs.cache
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\TP_1_ARCE_GERMAN.AssemblyInfo.cs
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\TP_1_ARCE_GERMAN.csproj.CoreCompileInputs.cache
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\TP_1_ARCE_GERMAN.dll
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\refint\TP_1_ARCE_GERMAN.dll
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\TP_1_ARCE_GERMAN.pdb
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\TP_1_ARCE_GERMAN.genruntimeconfig.cache
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\ref\TP_1_ARCE_GERMAN.dll

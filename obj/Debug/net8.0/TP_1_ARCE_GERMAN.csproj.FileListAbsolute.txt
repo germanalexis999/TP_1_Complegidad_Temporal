@@ -12,3 +12,4 @@ C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE
 C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\TP_1_ARCE_GERMAN.pdb
 C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\TP_1_ARCE_GERMAN.genruntimeconfig.cache
 C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\ref\TP_1_ARCE_GERMAN.dll
+C:\Users\germa\Desktop\unaj 2025\complegidad temporal\TP_1_ARCE_GERMAN\TP_1_ARCE_GERMAN\obj\Debug\net8.0\TP_1_ARCE_GERMAN.sourcelink.json

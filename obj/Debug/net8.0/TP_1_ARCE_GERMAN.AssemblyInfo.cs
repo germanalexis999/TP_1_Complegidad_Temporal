@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP_1_ARCE_GERMAN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec5325ee32df656f75b5b3ab3efb965adcbb22da")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP_1_ARCE_GERMAN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP_1_ARCE_GERMAN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

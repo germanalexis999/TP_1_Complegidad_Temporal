@@ -37,6 +37,13 @@ namespace TP_1_ARCE_GERMAN
 
             Console.WriteLine("El arbol binario A incluye el dato 5: " + arbolBinarioA.incluye(-9));
 
+            //imprimir por niveles 
+
+            Console.WriteLine("Recorrido por niveles del arbol binario A");
+            arbolBinarioA.recorridoPorNiveles();
+            Console.WriteLine("Recorrido por niveles del arbol binario B");
+            arbolBinarioB.recorridoPorNiveles();
+
 
         }
 

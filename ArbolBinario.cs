@@ -100,13 +100,28 @@ namespace TP_1_ARCE_GERMAN
             }
             if (this.hijoDerecho != null)
             {
-                this.hijoDerecho.postordenn();
+                this.hijoDerecho.postorden();
             }
             Console.WriteLine(this.dato);
         }
 
         public void recorridoPorNiveles()
         {
+            Cola<ArbolBinario<T>> cola = new Cola<ArbolBinario<T>>();
+            cola.encolar(this);
+            while (!cola.esVacia())
+            {
+                ArbolBinario<T> nodo = cola.desencolar();
+                Console.WriteLine(nodo.getDatoRaiz());
+                if (nodo.getHijoIzquierdo() != null)
+                {
+                    cola.encolar(nodo.getHijoIzquierdo());
+                }
+                if (nodo.getHijoDerecho() != null)
+                {
+                    cola.encolar(nodo.getHijoDerecho());
+                }
+            }
         }
 
         public int contarHojas()
